@@ -1,0 +1,4 @@
+*.pyc
+
+# virtual env
+mock_swf_test_env/*
